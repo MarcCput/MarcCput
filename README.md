@@ -1,109 +1,195 @@
-# 🌪️ Marc Kabala
+# Marc Kabala
 
-**`Digital Craftsman`**
+**Backend Developer | Software Development Student**
 
-I'm a aspiring backend developer, Linux Learner Loading… 10%, Java apologist, and content creator at [thegaffer][tiktok] (20k+ followers).
+Final-year **Diploma in ICT (Application Development)** student at Cape Peninsula University of Technology.  
+Experienced in **Java, SQL, and backend system design**, currently learning **Spring Boot, REST API development, Linux, and cloud technologies**.
+
+Passionate about building **reliable backend systems** and transitioning into **cloud engineering and DevOps-focused roles**.
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+
+# Contact
+
+📍 Cape Town, South Africa  
+📞 068-150-3142  
+📧 230701876@mycput.ac.za  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/marc-kabala-681b66196/
+
+🔗 GitHub  
+https://github.com/MarcCput
+
+---
+
+# Languages and Tools
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.php.net/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://spring.io/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-</p>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+</a>
 
-<br/>
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+</a>
 
-<p align="left">
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://figma.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
+</a>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-  </a>
 </p>
 
 ---
 
+# Professional Overview
 
-- 🔭 I’m currently working on **University projects**
+Final-year **Diploma in ICT (Application Development)** student at **Cape Peninsula University of Technology** with solid experience in **Java and SQL**, currently expanding knowledge in **REST API development and backend architecture**.
 
-- 🌱 I’m currently learning **Spring Boot, Linux**
-
-- 💬 Ask me about **java, python or sql**
-
-- 📫 How to reach me **230701876@mycput.ac.za**
-
-- ⚡ Fun fact **I like to make content on my free time.**
+Strong understanding of **object-oriented programming, server-side application development, and system design using Spring Boot**. Focused on building scalable backend systems while developing skills in **cloud technologies and DevOps practices**.
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marc kabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc kabala" height="30" width="40" /></a>
-<a href="https://instagram.com/_.thegaffer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thegaffer_" height="30" width="40" /></a>
-</p>
 
+# Projects
 
+## Smart Logistics & Route Optimization System
 
+Logistics companies often struggle with inefficient routing, delayed deliveries, and limited performance tracking.
+
+I built a **backend system to manage drivers, vehicles, deliveries, and route optimization.**
+
+**Technologies**
+
+Java  
+Spring Boot  
+PostgreSQL  
+JWT Authentication  
+
+**Key Features**
+
+- Driver and vehicle management
+- Delivery tracking
+- Route optimization logic
+- Secure REST API authentication
+
+---
+
+## Student Enrolment Client-Server System
+
+Educational institutions require secure systems to manage students, courses, and role-based access.
+
+I developed a **client-server Student Enrolment System with database integration and authentication.**
+
+**Technologies**
+
+Java  
+Java Swing  
+Derby Database  
+Socket Programming  
+
+**Key Features**
+
+- Role-based authentication (Admin & Student)
+- DAO-based CRUD operations
+- Object serialization for client-server communication
+- Secure login system
+
+---
+
+# Work Experience
+
+### Matric Examination Assistant (EA)
+
+Education Support Role – Cape Town  
+Nov 2025 – Dec 2025
+
+- Processed and verified **300+ Grade 12 examination scripts daily**, ensuring accuracy and compliance with national guidelines.
+- Captured and managed **1200+ candidate records**, reducing administrative errors.
+- Maintained **strict confidentiality** of examination materials while coordinating sorting, packaging, and documentation.
+
+---
+
+# Education
+
+**Diploma in ICT – Application Development**  
+Cape Peninsula University of Technology  
+Present
+
+**Cyber Security Certificate**  
+Cape Peninsula University of Technology  
+2023
+
+**National Senior Certificate**  
+J.G Meiring High School  
+2022
+
+---
+
+# Skills
+
+**Programming Languages**
+
+Java  
+Python  
+JavaScript  
+PHP  
+
+**Databases**
+
+SQL  
+PostgreSQL  
+Derby DB  
+
+**Tools & Technologies**
+
+Spring Boot  
+Laravel  
+Git  
+GitHub  
+AWS Fundamentals  
+Figma  
+NetBeans  
+Linux (Learning)
+
+---
+
+# References
+
+**Deo Kalala**  
+Cape Concrete  
+📞 +27 765-673-094  
+📧 deo@capeconcrete.com  
+
+**John Kabala**  
+Entrepreneur  
+📞 +27 826-743-167  
+📧 johnkabala87@gmail.com  
