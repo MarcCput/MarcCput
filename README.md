@@ -1,5 +1,4 @@
-# Marc Kabala🌪️  ![GitHub Logo](/images/![Uploading CG.png…]()
-)
+# Marc Kabala🌪️  ![GitHub Logo](/images/CG.png)
 
 
 Final-year **Diploma in ICT (Application Development)** student at Cape Peninsula University of Technology.  
