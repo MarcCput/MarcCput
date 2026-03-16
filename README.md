@@ -1,5 +1,4 @@
-# Marc Kabala🌪️  ![GitHub Logo](CG.png)
-
+# Marc Kabala🌪️  
 
 Final-year **Diploma in ICT (Application Development)** student at Cape Peninsula University of Technology.  
 Experienced in **Java, SQL, and backend system design**, currently learning **Spring Boot, REST API development, Linux, and cloud technologies**.
