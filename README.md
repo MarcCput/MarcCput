@@ -191,3 +191,9 @@ Cape Concrete
 Entrepreneur  
 📞 +27 826-743-167  
 📧 johnkabala87@gmail.com  
+
+# Video About Myself
+
+https://github.com/user-attachments/assets/3e3ae420-6c74-4560-b1e5-e9166bca6209
+
+
