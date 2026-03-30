@@ -77,52 +77,6 @@ Strong understanding of **object-oriented programming, server-side application d
 
 ---
 
-# Projects
-
-## Smart Logistics & Route Optimization System
-
-Logistics companies often struggle with inefficient routing, delayed deliveries, and limited performance tracking.
-
-I built a **backend system to manage drivers, vehicles, deliveries, and route optimization.**
-
-**Technologies**
-
-Java  
-Spring Boot  
-PostgreSQL  
-JWT Authentication  
-
-**Key Features**
-
-- Driver and vehicle management
-- Delivery tracking
-- Route optimization logic
-- Secure REST API authentication
-
----
-
-## Student Enrolment Client-Server System
-
-Educational institutions require secure systems to manage students, courses, and role-based access.
-
-I developed a **client-server Student Enrolment System with database integration and authentication.**
-
-**Technologies**
-
-Java  
-Java Swing  
-Derby Database  
-Socket Programming  
-
-**Key Features**
-
-- Role-based authentication (Admin & Student)
-- DAO-based CRUD operations
-- Object serialization for client-server communication
-- Secure login system
-
----
-
 # Work Experience
 
 ### Matric Examination Assistant (EA)
@@ -172,8 +126,7 @@ Derby DB
 Spring Boot  
 Laravel  
 Git  
-GitHub  
-AWS Fundamentals  
+GitHub    
 Figma  
 NetBeans  
 Linux (Learning)
