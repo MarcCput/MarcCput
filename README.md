@@ -3,7 +3,7 @@
 Final-year **Diploma in ICT (Application Development)** student at Cape Peninsula University of Technology.  
 Experienced in **Java, SQL, and backend system design**, currently learning **Spring Boot, REST API development, Linux, and cloud technologies**.
 
-Passionate about building **reliable backend systems** and transitioning into **cloud engineering and DevOps-focused roles**.
+Passionate about building **reliable backend systems** 
 
 ---
 
